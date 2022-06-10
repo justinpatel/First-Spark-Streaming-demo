@@ -6,3 +6,5 @@ Download the sales_log zip folder from [here](https://github.com/bsullins/bensul
 Assign path accordingly in the notebook.
 
 The only difference in coding of streaming is that we add stream in the func name such as readStream instead of read, writeStream instead write.
+
+Had fun learning and doing this hands-on.
